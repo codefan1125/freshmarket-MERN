@@ -1,11 +1,15 @@
 # E-commerce website with MERN stack (https://www.thefreshmarket.com)
 
 ## Logo screen
-![alt text](https://github.com/codefan1125/freshmarket-MERN/blob/main/Screenshot_1.png?raw=true)
+![alt text](https://github.com/codefan1125/freshmarket-MERN/blob/master/Screenshot_1.png?raw=true)
 ## MEDIA ABOUT US
-![alt text](https://github.com/codefan1125/BNB-HotelService-Laravel/blob/main/Screenshot_2.png?raw=true)
+![alt text](https://github.com/codefan1125/freshmarket-MERN/blob/master/Screenshot_2.png?raw=true)
 ## OUR SERVICES
-![alt text](https://github.com/codefan1125/BNB-HotelService-Laravel/blob/main/Screenshot_3.png?raw=true)
+![alt text](https://github.com/codefan1125/freshmarket-MERN/blob/master/Screenshot_3.png?raw=true)
+## OUR SERVICES
+![alt text](https://github.com/codefan1125/freshmarket-MERN/blob/master/Screenshot_4.png?raw=true)
+## OUR SERVICES
+![alt text](https://github.com/codefan1125/freshmarket-MERN/blob/master/Screenshot_5.png?raw=true)
 
 ## Built with
 
