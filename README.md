@@ -1,10 +1,11 @@
-https://user-images.githubusercontent.com/102798814/185803808-cfc2fd12-aaae-454d-b25b-810481ffa4f5.mp4
+# E-commerce website with MERN stack (https://www.thefreshmarket.com)
 
-# Clothify
-
-This application is a classic clothes sales app. People can buy somethings and write reviews about them. 
-They can add favorites if they like. they can track their active orders and view order history. 
-Admin can add, edit and remove new categories and products and  edit ads and banners on the homepage.
+## Logo screen
+![alt text](https://github.com/codefan1125/freshmarket-MERN/blob/main/Screenshot_1.png?raw=true)
+## MEDIA ABOUT US
+![alt text](https://github.com/codefan1125/BNB-HotelService-Laravel/blob/main/Screenshot_2.png?raw=true)
+## OUR SERVICES
+![alt text](https://github.com/codefan1125/BNB-HotelService-Laravel/blob/main/Screenshot_3.png?raw=true)
 
 ## Built with
 
@@ -36,22 +37,3 @@ Admin can add, edit and remove new categories and products and  edit ads and ban
 
 - [Stripe](https://stripe.com/) - Payment System
 
-## Getting Started
-
-Clone the repository
-
-```
-git clone https://github.com/AhmedSemih/MERN-Stack-eCommerce-App.git
-```
-
-After getting the starter files, you must to go both file directories and run
-
-```
-npm install
-```
-
-You must assign environment variables for both and start the dev server
-
-```
-npm start
-```
